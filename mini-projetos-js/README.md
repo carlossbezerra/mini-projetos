@@ -54,19 +54,19 @@ Se gostou da ideia acompanhe os projetos abaixo com o prof: Fernando Leonid:
       <h3>06 - Calculadora</h3>
       <li><a href="./06-Calculadora/">Código</a></li>
       <li><a href="https://youtu.be/oRZQ5EZOrQk">Passo a passo</a></li>
-      <a href="https://fernandoleonid.github.io/mini-projetos-js/06-Calculadora/"><img src="./img/06-Calculadora.gif" width="250px" ></a>
+      <a href="https://carlossbezerr.github.io/mini-projetos-js/06-Calculadora/"><img src="./img/06-Calculadora.gif" width="250px" ></a>
     </td>
     <td>
       <h3>07 - To-do-list</h3>
       <li><a href="./07-todo-List/">Código</a></li>
       <li><a href="https://youtu.be/oGEYs52ZuHY">Passo a passo</a></li>
-      <a href="https://fernandoleonid.github.io/mini-projetos-js/07-todo-List/"><img src="./img/07-todo-List.gif" width="250px" ></a>
+      <a href="https://carlossbezerr.github.io/mini-projetos-js/07-todo-List/"><img src="./img/07-todo-List.gif" width="250px" ></a>
     </td>
     <td>
       <h3>08 - CRUD</h3>
       <li><a href="./08-crud/">Código</a></li>
       <li><a href="https://youtu.be/oGEYs52ZuHY">Passo a passo</a></li>
-      <a href="https://fernandoleonid.github.io/mini-projetos-js/08-crud/"><img src="./img/08-crud.gif" width="250px" ></a>
+      <a href="https://carlossbezerr.github.io/mini-projetos-js/08-crud/"><img src="./img/08-crud.gif" width="250px" ></a>
     </td>
   </tr>
   
